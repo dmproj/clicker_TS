@@ -11,3 +11,5 @@ export default function Component() {
 
   return <p>Click count: {count}</p>
 }
+
+//to add onClick and on leave
